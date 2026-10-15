@@ -1,0 +1,37 @@
+Employee_ID,Name,Age,department,city,Salary,Joining_Date,Performance_Score,Email,Experience_Years,employment_Status,Experience_Level
+1001,Aarav Sharma,24.0,IT,Pune,35000.0,2022-01-15,4.2,aarav@example.com,1,Active,Junior
+1002,Priya Patil,29.0,HR,Mumbai,42000.0,2021-06-01,3.8,PRIYA@example.com,3,Active,Senior
+1003,Rohan Deshmukh,35.0,Finance, nashik ,58000.0,2020-03-20,4.5,rohan@example.com,8,Active,Senior
+1004,Sneha Kulkarni,30.0,IT,Pune,39000.0,2023-02-10,3.95,sneha@example.com,2,Active,Junior
+1005,Vikram Joshi,41.0,Sales,Nagpur,62000.0,2019-11-05,3.9,vikram@example.com,12,Active,Senior
+1006,Ananya Shah,27.0,Marketing,Mumbai,48000.0,2022-07-18,4.1,ananya@example.com,4,Active,Senior
+1007,Rahul More,31.0,IT,Pune,48000.0,2021-09-12,3.5,Roshan@1234,6,Active,Senior
+1008,Isha Mehta,23.0,Hr,Nashik,36000.0,2023-04-01,4.7,isha@example.com,1,Active,Junior
+1009,Karan Pawar,30.0,Sales,Pune,45000.0,2020-12-11,3.6,karan@example.com,5,Active,Senior
+1010,Neha Gupta,28.0,Finance,Mumbai,51000.0,2022-05-25,4.0,neha@example.com,4,Active,Senior
+1012,Meera Nair,34.0,Marketing,Pune,55000.0,2021-01-30,3.9,meera@example.com,7,Active,Senior
+1014,Pooja Chavan,39.0,Sales,Nashik,60000.0,2020-06-14,3.7,pooja@example.com,10,Active,Senior
+1015,Aditya Singh,30.0,HR,Pune,44000.0,2021-12-01,3.95,aditya@example.com,5,Active,Senior
+1016,Kavya Rao,30.0,IT,Mumbai,53000.0,2023-08-22,4.4,kavya@example.com,2,Active,Junior
+1017,Manish Yadav,37.0,Finance,Nagpur,48000.0,2019-04-17,3.2,manish@example.com,14,Active,Senior
+1018,Diya Kapoor,25.0,Marketing,Pune,41000.0,2022-11-09,4.6,diya@example.com,3,Active,Senior
+1019,Omkar Shinde,42.0,Sales,Mumbai,67000.0,2020-02-28,3.8,OMKAR@example.com ,11,Active,Senior
+1020,Sana Khan,33.0,HR,Nashik,49000.0,2021-07-07,4.1,sana@example.com,6,Active,Senior
+1021,Yash Thakur,22.0,IT,Pune,33000.0,2023-01-12,3.6,yash@example.com,1,Active,Junior
+1022,Tanvi Desai,28.0,Finance,Mumbai,52000.0,2020-09-19,3.95,tanvi@example.com,5,Active,Senior
+1023,Amit Bhosale,36.0,Sales,Nagpur,61000.0,2019-05-23,4.0,amit@example.com,9,Active,Senior
+1024,Riya Malhotra,24.0,Marketing,Pune,38000.0,2022-03-14,4.5,riya@example.com,2,Active,Junior
+1025,Dev Mishra,30.0,HR,Nashik,46000.0,2021-10-28,3.4,dev@example.com,4,Active,Senior
+1003,Rohan Deshmukh,35.0,Finance,Nashik,58000.0,2020-03-20,4.5,rohan@example.com,8,Active,Senior
+1010,Neha Gupta,28.0,Finance,Mumbai,51000.0,2022-05-25,4.0,neha@example.com,4,Active,Senior
+1027,   ,26.0,it,Pune,40000.0,2023/05/14,3.9,rahul@example.com,2,Active,Junior
+1028,Sahil Jain,32.0,HR,Mumbai,48000.0,2019-08-30,4.2,sahil@example.com,7,Active,Senior
+1029,Maya Iyer,29.0,Marketing,Pune,43000.0,2021-11-17,3.7,maya@example.com,5,Active,Senior
+1031,Aditi Pawar,30.0,IT,Mumbai,37000.0,2022-09-06,3.8,aditi@example.com,3,Active,Senior
+1032,Nikhil Gokhale,27.0,Finance,Pune,50000.0,2021-03-25,3.95,nikhil@example.com,4,Active,Senior
+1034,Ibrahim Khan,31.0,HR,Pune,45000.0,2022-12-05,3.9,ibrahim@example.com,6,Active,Senior
+1035,Tara Kulkarni,23.0,Sales,Mumbai,34000.0,2023-06-21,4.1,tara@example.com,1,Active,Junior
+1036,Suresh Patil,44.0,IT,Nagpur,69000.0,2018-10-10,3.5,suresh@example.com,-2,Active,Junior
+1037,Leena Das,30.0,Finance,Pune,48000.0,2021-02-14,4.4,leena@example.com,8,Active,Senior
+1038,Varun Rao,30.0,Marketing,Mumbai,54000.0,not available,3.6,varun@example.com,5,Active,Senior
+1039,Nisha More,34.0,HR,Nashik,48000.0,2020-08-27,4.0,nisha@example.com,7,Active,Senior
