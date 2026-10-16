@@ -1,0 +1,28 @@
+,employee_id,name,age,gender,department,salary,performance_score,location,joining_date,experience_years
+0,1001,Aarav Sharma,24,Male,IT,42000,4.2,Pune,2023-06-12,2.0
+1,1002,Priya Patil,27,Female,HR,38000,4.5,Mumbai,2021-03-08,5.0
+2,1003,Rahul Deshmukh,31,Male,Finance,56000,3.8,Pune,2019-11-20,8.0
+3,1004,Sneha Joshi,23,Female,IT,45000,4.7,Nashik,2024-01-15,1.0
+4,1005,Vikram More,29,Male,Sales,39000,3.5,Mumbai,2020-07-01,6.0
+6,1007,Om Pawar,35,Male,Operations,61000,4.1,Nagpur,2017-02-17,11.0
+7,1008,Isha Shah,32,Female,HR,41000,4.1,Mumbai,2023-08-22,2.0
+8,1009,Kunal Jadhav,28,Male,Finance,52000,3.9,Pune,2020-12-05,6.0
+11,1012,Pooja Sane,32,Female,Finance,59000,4.8,Pune,2018-05-19,9.0
+12,1013,Sahil Chavan,22,Male,Sales,32000,3.2,Nagpur,2024-07-01,1.0
+13,1014,Riya Bhosale,28,Female,Operations,50000,4.4,Mumbai,2020-02-14,6.0
+14,1015,Yash Thakur,33,Male,IT,68000,4.1,Pune,2016-10-30,12.0
+15,1016,Neha Pawar,24,Female,HR,36000,4.0,Nashik,2023-02-02,2.0
+16,1017,Rohan Shinde,27,Male,Finance,54000,3.7,Nagpur,2021-06-16,5.0
+17,1018,Tanvi Gokhale,29,Female,Sales,46000,4.6,Pune,2019-09-09,7.0
+18,1019,Nikhil Patil,26,Male,Operations,48000,3.6,Mumbai,2022-01-24,4.0
+19,1020,Aditi Desai,31,Female,IT,63000,4.9,Pune,2018-12-12,9.0
+21,1022,Kavya More,25,Female,Sales,37000,3.8,Nagpur,2022-11-07,3.0
+22,1023,Dev Kulkarni,28,Male,IT,51000,4.3,Pune,2021-08-18,5.0
+23,1024,Sana Khan,34,Female,Operations,58000,4.1,Mumbai,2017-04-03,10.0
+24,1025,Arjun Nair,23,Male,Sales,33000,3.4,Nashik,2024-02-20,1.0
+25,1026,Mitali Shah,27,Female,Finance,55000,4.5,Pune,2020-06-29,6.0
+26,1027,Siddharth Kale,30,Male,IT,62000,4.0,Nagpur,2018-07-13,8.0
+29,1031,Diya Pawar,32,Female,Marketing,43000,4.1,Kolhapur,2023-10-01,3.0
+30,1032,   ,26,Female,IT ,47000,4.2,Pune,2022-05-17,4.0
+31,1033,Irfan Shaikh,29,Female,Marketing,49000,3.9,Aurangabad,2021-02-08,5.0
+32,1034,Ritu Pawar,28,Female,HR,41000,4.1,Mumbai,2023-08-22,2.0
